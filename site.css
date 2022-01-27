@@ -1,0 +1,96 @@
+body {
+    background-color: #25282A
+}
+
+body {
+    text-align: center;
+}
+
+body {
+    width: 900px;
+}
+
+#title,
+.subtitle,
+.post_title,
+.post1_title,
+.post2_title,
+.post3_title,
+.post4_title,
+.frase1,
+.frase2,
+.frase3,
+.frase4 #title {
+    color: #b50070;
+}
+
+.subtitle {
+    color: #833a55;
+}
+
+.frase1,
+.frase2,
+.frase3,
+.frase4 {
+    color: #e5e4e2;
+}
+
+.post1_title {
+    color: #964B00;
+}
+
+.post2_title {
+    color: #008ab7;
+}
+
+.post3_title {
+    color: #f0fdfa;
+}
+
+.post4_title {
+    color: #000000;
+}
+
+#title {
+    font-style: italic;
+    font-family: serif;
+    font-size: 55px;
+}
+
+.subtitle {
+    font-size: 40px;
+}
+
+.frase1,
+.frase2,
+.frase3,
+.frase4 {
+    font-size: 25px;
+}
+
+.post1_title,
+.post2_title,
+.post3_title,
+.post4_title {
+    font-size: 35px;
+}
+
+.post1_title,
+.post2_title,
+.post3_title,
+.post4_title {
+    font-weight: 900;
+    font-size: 32px;
+}
+
+.contact_list {
+    list-style-type: none;
+}
+
+.contact_list li a { 
+    color: #ffb6c0;
+}
+
+.post_img, .post_img2, .post_img3, .post_img4, .post_img5 {
+    width: 450px;
+}
